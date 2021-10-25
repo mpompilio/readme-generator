@@ -2,12 +2,8 @@
 
 # Table of Contents
     1. [Description](#description)
-    2. [Installation](#installation)
-    3. [Usage](#usage)
-    4. [License](#license)
-    5. [Contribution](#contribution)
-    6. [Tests](#tests)
-    7. [Questions](#questions)
+    2. [Tests](#tests)
+    3. [Questions](#questions)
 
 # Description
 This is a Node.js application that allows you to create and generate and README.md File based on questions asked in the terminal!
